@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+div{
+    color: white;
+  
+}
+.sleep{
+    text-align: center;
+}
+.dead{
+    border: 5px solid white;
+    margin-top: 20px;
+ 
+}
+h1{
+    padding-top: 10px;
+}
+p{
+    padding-top: 10px;
+}
